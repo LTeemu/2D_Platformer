@@ -1,4 +1,4 @@
-# Unity Mobile 2D Platformer - OAMK group project, finished March 2 2022
+# Unity Mobile 2D Platformer - March 2022 - OAMK group project 
 ### Things i made:<br>
 
 Player scripts<br>
