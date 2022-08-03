@@ -1,6 +1,6 @@
 # Mobile 2D Platformer - OAMK group project, finished March 2 2022
 
-Things i made:<br>
+### Things i made:<br>
 
 Player scripts<br>
 Enemy script: All except Wizard<br>
