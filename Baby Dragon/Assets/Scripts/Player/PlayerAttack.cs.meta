@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d746ddac5de4cdb4fbb233e8b138ed4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  - meleePos: {instanceID: 0}
+  - fullFireball: {fileID: 21300000, guid: 6327309ba5fe46e42bfa3edd49afa7ae, type: 3}
+  - emptyFireball: {fileID: 21300000, guid: ca4dd23d589eff74e911d418a191158b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

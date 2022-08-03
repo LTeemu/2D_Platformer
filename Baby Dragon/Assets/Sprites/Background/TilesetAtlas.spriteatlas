@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TilesetAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1806754021, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: 58657768, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -839098458, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -494343164, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: 419404239, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -83656473, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: 2106328867, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: 1091769747, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -742310116, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -1367721834, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -2146840994, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: 1932393801, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: 1392334282, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -1319860097, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -958351612, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  - {fileID: -1659252909, guid: d9eaeb284fb60774e8c28dc73beab329, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - leiju_end
+  - wall_end
+  - leiju_up
+  - leiju_down
+  - leiju_endUp
+  - wall
+  - grass
+  - grass_end
+  - wall_leiju
+  - tree_end
+  - leiju_middle
+  - leiju_tree
+  - leij
+  - water1
+  - water2
+  - grass_tree
+  m_RenderDataMap: {}
+  m_Tag: TilesetAtlas
+  m_IsVariant: 0
