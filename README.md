@@ -7,8 +7,11 @@ Levels: Tutorial and ForestBoss<br>
 Items: Pickups and Drop table<br>
 UI
 
-![image10](https://user-images.githubusercontent.com/74067579/182633171-0c06412a-2fc0-4723-a93a-8f4fbe935a5e.gif)
-![image9](https://user-images.githubusercontent.com/74067579/182633184-bee4d8ba-a901-4e44-99e5-0b4b6bef70ab.gif)
-![image8](https://user-images.githubusercontent.com/74067579/182633209-488cd8a8-80cf-417c-9da1-1e4e7031a8e3.gif)
-![image7](https://user-images.githubusercontent.com/74067579/182633240-97357ef2-1078-493c-ab9b-4983e9c4b795.gif)
-![image6](https://user-images.githubusercontent.com/74067579/182633233-698b21a5-7c4b-45f2-ab97-fa5a6122a991.gif)
+
+![menu](https://user-images.githubusercontent.com/74067579/182818542-bf9fd2e4-499a-494f-a3ea-080edae7725a.gif)
+![trim2](https://user-images.githubusercontent.com/74067579/182818549-55f477e9-bbb0-4e95-84c2-15e20621123c.gif)
+![dragon3_opt](https://user-images.githubusercontent.com/74067579/182820000-eef12790-d4e0-4ee0-be1f-8e8576a8db79.gif)
+![dragon4_opt](https://user-images.githubusercontent.com/74067579/182820850-30c7d9af-012b-4685-8653-b281fd7adefd.gif)
+![dragon5_opt](https://user-images.githubusercontent.com/74067579/182821173-1021c72b-8c5c-443e-94bd-334aa2f77bc5.gif)
+![dragon6_opt](https://user-images.githubusercontent.com/74067579/182821759-82230888-8358-4991-8fb4-77a5e841dcb7.gif)
+![dragon7_opt](https://user-images.githubusercontent.com/74067579/182821768-3ed33c71-cae5-4f04-9b0c-fc38e5236710.gif)
