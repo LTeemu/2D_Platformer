@@ -2,7 +2,7 @@
 ### Things i made:<br>
 
 Player scripts<br>
-Enemy script: All except Wizard<br>
+Enemy scripts: All except Wizard<br>
 Levels: Tutorial and ForestBoss<br>
 Items: Pickups and Drop table<br>
 UI
